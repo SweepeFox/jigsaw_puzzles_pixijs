@@ -1,4 +1,4 @@
-# Zimad test project. Game engine is pixi.js. 
+# Game engine is pixi.js. 
 
 This repo includes:
 
